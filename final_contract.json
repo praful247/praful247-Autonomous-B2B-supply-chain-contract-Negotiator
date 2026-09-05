@@ -1,0 +1,9 @@
+{
+    "status": "LEGALLY_BINDING",
+    "item": "Enterprise Servers",
+    "quantity": 5000,
+    "price_per_unit_usd": 1100,
+    "delivery_sla_days": 35,
+    "total_contract_value_usd": 5500000,
+    "audit_trail": "Logged to Lyzr AIMS"
+}
